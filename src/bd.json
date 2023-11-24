@@ -1,0 +1,30 @@
+{
+  "Usuarios": [
+    {
+      "id": 1,
+      "nombre": "Maria",
+      "email": "maria@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "nombre": "Luis",
+      "email": "juanpacomer@tacos.co",
+      "password": "123456"
+    }
+  ],
+  "Productos":[
+    {
+      "id":1,
+      "nombre":"Marcela",
+      "descripcion":"Comida para adultos entre 2 y 5 años"
+    },
+    {
+      "id":2,
+      "nombre":"Bulto doncat",
+      "descripcion":"Comida para adultos entre 2 y 5 años"
+    }
+
+
+  ]
+}
